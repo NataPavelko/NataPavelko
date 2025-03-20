@@ -6,8 +6,8 @@
 - Machine Learning & Data Analytics
 - Web development (HTML, CSS)
 - Embedded systems & Raspberry Pi
-- Project-based learning & GitHub portfolio building
-- 
+- Project-based learning
+  
 🌱 Currently Learning
 -Advanced Python & Machine Learning
 -Raspberry Pi automation (AspirePi project)
@@ -21,6 +21,7 @@ Love cooking & crocheting 🧶🍳
 Passionate about creating a cozy home & interior design
 Learning about different cultures
 Cat lover 🐱 (planning to take my cat for walks!)
+
 📫 How to Reach Me
 GitHub: @NataPavelko
 Email: natapavelko@gmail.com 
