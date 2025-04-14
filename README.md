@@ -2,7 +2,7 @@
 💻 I’m currently studying to become a Fachinformatikerin (Application Development) and actively working on projects to build my skills.
 
 👀 Interests
-- Backend development (Python, PHP, C)
+- Backend development (Python, PHP, C, C#)
 - Machine Learning & Data Analytics
 - Web development (HTML, CSS)
 - Embedded systems & Raspberry Pi
