@@ -40,23 +40,16 @@ Hi there! I'm **Nataliia Pavelko**, a curious and passionate **Fachinformatikeri
 ---
 
 ## 🌱 My Growth Path (Mermaid Diagram)
+## 🌱 My Journey Into Tech
 
 ```mermaid
-journey
-    title Nataliia's Journey Into Tech 🚀
-    section Education
-      Business Management (Bachelor): 5: 2016-2020
-      Organizational Management (Master): 4: 2020-2022
-      Fachinformatikerin Ausbildung: 5: 2020-2022
-    section Work Experience
-      Coworking Administrator: 3: 2019
-      Customer Support Specialist: 4: 2020-2021
-      IT Project Manager: 5: 2021-2022
-      Web Project (Scrum): 4: 2022-Present
-    section Skills & Tools
-      Python: 4
-      C#: 4
-      PHP: 4
-      HTML/CSS: 5
-      Agile/Scrum/Kanban: 5
-      Jira: 4
+graph TD
+  A[🎓 Bachelor in Business Management<br>2016–2020] --> B[🎓 Master in Org & Admin Management<br>2020–2022]
+  B --> C[💻 Fachinformatikerin Ausbildung<br>2020–2022]
+  C --> D[💼 Coworking Admin @ Softwork<br>2019]
+  D --> E[👩‍💼 Support Specialist @ Monobank<br>2020–2021]
+  E --> F[🧑‍💻 IT Project Manager @ ITIP Dnipro<br>2021–2022]
+  F --> G[🌐 Web Project Management with Scrum<br>2022–Present]
+  G --> H[🛠️ Tech Stack: Python, PHP, HTML/CSS, SQL]
+  H --> I[📌 Agile: Scrum & Kanban | Tools: Jira, GitHub]
+
