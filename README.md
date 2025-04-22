@@ -35,8 +35,6 @@ Ich suche ein Praktikum, bei dem ich meine Fähigkeiten in der Backend-Entwicklu
 
 ## Diagramm
 
-### Flowchart: Lernprozess
-
 ```mermaid
 sequenceDiagram
     participant A as Nata
@@ -48,4 +46,4 @@ sequenceDiagram
     A->>A: Vertrag unterschreiben
     B->>A: Start des Praktikums
 
-'''
+```
