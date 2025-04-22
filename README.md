@@ -1,55 +1,50 @@
-# 👩‍💻 Nataliia Pavelko – Turning Code Into Creativity
+# Hallo, ich bin @NataPavelko
 
-Hi there! I'm **Nataliia Pavelko**, a curious and passionate **Fachinformatikerin für Anwendungsentwicklung** based in Hamburg, Germany 🇩🇪. I thrive on learning, coding, and transforming ideas into reality through software. My journey into tech spans from administrative science to agile software development—and I love every step of it.
+💻 Momentan studiere ich zur Fachinformatikerin (Anwendungsentwicklung) und arbeite aktiv an Projekten, um meine Fähigkeiten auszubauen.
 
----
+## 👀 Interessen
 
-## 🚀 Who I Am
+- Backend-Entwicklung (Python, PHP, C, C#)
+- Maschinelles Lernen & Datenanalyse
+- Webentwicklung (HTML, CSS)
+- Eingebettete Systeme & Raspberry Pi
+- Projektbasiertes Lernen
 
-🎓 **Education**  
-- 🧠 Master's in Organizational and Administrative Management  
-- 💼 Bachelor in Business Management  
-- 💻 Ausbildung zur Fachinformatikerin – IHK Abschluss (2022)
+## 🌱 Aktuell lerne ich
 
-🎯 **Currently Learning:**  
-- Machine Learning / KI  
-- Always exploring new ways to code better and smarter.
+- Fortgeschrittenes Python & Maschinelles Lernen
+- Raspberry Pi Automatisierung (AspirePi Projekt)
+- Best Practices in der Webentwicklung
 
-📜 **Certified in:**  
-- Agile & Scrum (EXIN)
+## 💼 Auf der Suche nach einem Praktikum
 
----
+Ich suche ein Praktikum, bei dem ich meine Fähigkeiten in der Backend-Entwicklung, Datenanalyse oder Webentwicklung anwenden kann.
 
-## 🔧 Tech Stack
+## 🏡 Über mich
 
-- **Languages**: Python, C, C#, PHP, SQL  
-- **Frontend**: HTML, CSS  
-- **Project Tools**: Jira, Git, GitHub  
-- **Methodologies**: Scrum, Kanban  
-- **Spoken Languages**: 🇺🇦 Ukrainian, 🇷🇺 Russian, 🇩🇪 German (B2), 🇬🇧 English (C1)
+- Ich liebe Kochen & Häkeln 🧶🍳
+- Ich bin leidenschaftlich an der Gestaltung eines gemütlichen Zuhauses & Innenarchitektur interessiert.
+- Ich lerne gerne verschiedene Kulturen kennen.
+- Ich bin Katzenliebhaberin 🐱 (plane, mit meiner Katze spazieren zu gehen!)
 
----
+## 📫 So erreicht man mich
 
-## 💼 Work Experience Highlights
+- **GitHub**: @NataPavelko
+- **E-Mail**: natapavelko@gmail.com
+- **LinkedIn**: [LinkedIn Profil](https://www.linkedin.com/in/nataliia-pavelko/)
 
-- 🧑‍💼 **IT Project Manager** at ITIP Dnipro  
-- 🏦 **Customer Support Specialist** at Monobank  
-- 🏢 **Coworking Administrator** at Softwork  
-- 🖼️ **Website Admin for Art Prints** — managed tasks and teams via Jira
+## Diagramm
 
----
-
-## 🌱 My Growth Path (Mermaid Diagram)
-## 🌱 My Journey Into Tech
+### Flowchart: Lernprozess
 
 ```mermaid
-graph TD
-  A[🎓 Bachelor in Business Management<br>2016–2020] --> B[🎓 Master in Org & Admin Management<br>2020–2022]
-  B --> C[💻 Fachinformatikerin Ausbildung<br>2020–2022]
-  C --> D[💼 Coworking Admin @ Softwork<br>2019]
-  D --> E[👩‍💼 Support Specialist @ Monobank<br>2020–2021]
-  E --> F[🧑‍💻 IT Project Manager @ ITIP Dnipro<br>2021–2022]
-  F --> G[🌐 Web Project Management with Scrum<br>2022–Present]
-  G --> H[🛠️ Tech Stack: Python, PHP, HTML/CSS, SQL]
-  H --> I[📌 Agile: Scrum & Kanban | Tools: Jira, GitHub]
+sequenceDiagram
+    participant A as Nata
+    participant B as Praktikumsanbieter
+    A->>B: Bewerbung senden
+    B->>A: Einladung zum Interview
+    A->>B: Interview
+    B->>A: Praktikumsangebot
+    A->>A: Vertrag unterschreiben
+    B->>A: Start des Praktikums
 
