@@ -1,29 +1,29 @@
-👋 Hi, I’m @NataPavelko
-💻 I’m currently studying to become a Fachinformatikerin (Application Development) and actively working on projects to build my skills.
+# 👋 Hallo, ich bin @NataPavelko
 
-👀 Interests
-- Backend development (Python, PHP, C, C#)
-- Machine Learning & Data Analytics
-- Web development (HTML, CSS)
-- Embedded systems & Raspberry Pi
-- Project-based learning
-  
-🌱 Currently Learning
--Advanced Python & Machine Learning
--Raspberry Pi automation (AspirePi project)
--Web development best practices
+💻 Momentan studiere ich zur Fachinformatikerin (Anwendungsentwicklung) und arbeite aktiv an Projekten, um meine Fähigkeiten auszubauen.
 
-💼 Looking for an Internship
-I’m looking for an internship where I can apply my skills in backend development, data analytics, or web development.
+## 👀 Interessen
+- Backend-Entwicklung (Python, PHP, C, C#)
+- Maschinelles Lernen & Datenanalyse
+- Webentwicklung (HTML, CSS)
+- Eingebettete Systeme & Raspberry Pi
+- Projektbasiertes Lernen
 
-🏡 About Me
-Love cooking & crocheting 🧶🍳
-Passionate about creating a cozy home & interior design
-Learning about different cultures
-Cat lover 🐱 (planning to take my cat for walks!)
+## 🌱 Aktuell lerne ich
+- Fortgeschrittenes Python & Maschinelles Lernen
+- Raspberry Pi Automatisierung (AspirePi Projekt)
+- Best Practices in der Webentwicklung
 
-📫 How to Reach Me
-GitHub: @NataPavelko
-Email: natapavelko@gmail.com 
-LinkedIn: https://www.linkedin.com/in/nataliia-pavelko/
+## 💼 Auf der Suche nach einem Praktikum
+Ich suche ein Praktikum, bei dem ich meine Fähigkeiten in der Backend-Entwicklung, Datenanalyse oder Webentwicklung anwenden kann.
 
+## 🏡 Über mich
+Ich liebe Kochen & Häkeln 🧶🍳  
+Ich bin leidenschaftlich an der Gestaltung eines gemütlichen Zuhauses & Innenarchitektur interessiert.  
+Ich lerne gerne verschiedene Kulturen kennen.  
+Ich bin Katzenliebhaberin 🐱 (plane, mit meiner Katze spazieren zu gehen!)
+
+## 📫 So erreicht man mich
+- **GitHub**: [@NataPavelko](https://github.com/NataPavelko)  
+- **E-Mail**: [natapavelko@gmail.com](mailto:natapavelko@gmail.com)  
+- **LinkedIn**: [LinkedIn Profil](https://www.linkedin.com/in/nataliia-pavelko/)
