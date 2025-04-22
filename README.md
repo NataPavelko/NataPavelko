@@ -1,3 +1,4 @@
+```mermaid
 graph TD
   A[**@NataPavelko**] --> B[**Interessen**]
   A --> C[**Aktuell lerne ich**]
@@ -27,3 +28,5 @@ graph TD
   F --> F1[GitHub: @NataPavelko]
   F --> F2[E-Mail: natapavelko@gmail.com]
   F --> F3[LinkedIn: LinkedIn Profil]
+
+```
