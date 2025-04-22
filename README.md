@@ -54,7 +54,9 @@ journey
       IT Project Manager: 5: 2021-2022
       Web Project (Scrum): 4: 2022-Present
     section Skills & Tools
-      Python, C#, PHP: 4
+      Python: 4
+      C#: 4
+      PHP: 4
       HTML/CSS: 5
-      Agile, Scrum, Kanban: 5
-      Jira, GitHub: 4
+      Agile/Scrum/Kanban: 5
+      Jira: 4
