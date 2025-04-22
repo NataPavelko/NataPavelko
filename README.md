@@ -38,13 +38,14 @@ Ich suche ein Praktikum, bei dem ich meine Fähigkeiten in der Backend-Entwicklu
 ### Flowchart: Lernprozess
 
 ```mermaid
-flowchart TD
-    A[Start] --> B{Was möchte ich lernen?}
-    B -- Python --> C[Fortgeschrittenes Python]
-    B -- Maschinelles Lernen --> D[Maschinelles Lernen]
-    B -- Raspberry Pi --> E[Raspberry Pi Automatisierung]
-    C --> F[Projekte umsetzen]
-    D --> F
-    E --> F
-    F --> G[Ende]
+sequenceDiagram
+    participant A as Nata
+    participant B as Praktikumsanbieter
+    A->>B: Bewerbung senden
+    B->>A: Einladung zum Interview
+    A->>B: Interview
+    B->>A: Praktikumsangebot
+    A->>A: Vertrag unterschreiben
+    B->>A: Start des Praktikums
+
 '''
