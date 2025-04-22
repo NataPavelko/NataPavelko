@@ -46,4 +46,3 @@ sequenceDiagram
     A->>A: Vertrag unterschreiben
     B->>A: Start des Praktikums
 
-```
