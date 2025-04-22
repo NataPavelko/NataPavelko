@@ -33,7 +33,7 @@ Ich suche ein Praktikum, bei dem ich meine Fähigkeiten in der Backend-Entwicklu
 - **E-Mail**: natapavelko@gmail.com
 - **LinkedIn**: [LinkedIn Profil](https://www.linkedin.com/in/nataliia-pavelko/)
 
-## Diagramm
+## Was ich gerne möchte:
 
 ```mermaid
 sequenceDiagram
