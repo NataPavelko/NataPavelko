@@ -43,24 +43,21 @@ Ich bin auf der Suche nach einem Praktikum im Bereich:
 
 ---
 
-## 🗂️ Meine Skills (Mermaid-Diagramm)
+## 🗂️ Meine Skills 
 
 ```mermaid
-graph TD
-  A[Skills] --> B[Backend]
-  A --> C[ML & Data]
-  A --> D[Web]
-  A --> E[Embedded]
-
-  B --> B1[Python]
-  B --> B2[PHP]
-  B --> B3[C / C#]
-
-  C --> C1[Machine Learning]
-  C --> C2[Datenanalyse]
-
-  D --> D1[HTML]
-  D --> D2[CSS]
-
-  E --> E1[Raspberry Pi]
-  E --> E2[Automatisierung]
+mindmap
+  root((Skills))
+    Backend
+      Python
+      PHP
+      C / C#
+    ML & Data
+      Machine Learning
+      Datenanalyse
+    Web
+      HTML
+      CSS
+    Embedded
+      Raspberry Pi
+      Automatisierung
