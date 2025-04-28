@@ -4,6 +4,33 @@
 
 ---
 
+## 🗂️ Meine Skills 
+
+```mermaid
+mindmap
+  root((Skills))
+    Backend
+      Python
+      PHP
+      C / C#
+    ML & Data
+      Machine Learning
+      Datenanalyse
+    Web
+      HTML
+      CSS
+    Embedded
+      Raspberry Pi
+      Automatisierung
+```
+---
+
+## 📫 Wie du mich erreichen kannst
+
+- 🔗 **GitHub:** [@NataPavelko](https://github.com/NataPavelko)
+- 📧 **E-Mail:** [natapavelko@gmail.com](mailto:natapavelko@gmail.com)
+- 💼 **LinkedIn:** [Nataliia Pavelko](https://www.linkedin.com/in/nataliia-pavelko/)
+---
 ## 👀 Interessen
 - 🧠 Backend-Entwicklung: **Python**, **PHP**, **C**, **C#**
 - 📊 **Maschinelles Lernen & Datenanalyse**
@@ -26,7 +53,9 @@ Ich bin auf der Suche nach einem Praktikum im Bereich:
 - **Datenanalyse**
 - **Webentwicklung**
 
+
 ---
+
 
 ## 🏡 Über mich
 - 🍳 Ich liebe **Kochen & Häkeln** 🧶
@@ -36,28 +65,6 @@ Ich bin auf der Suche nach einem Praktikum im Bereich:
 
 ---
 
-## 📫 Kontakt
-- GitHub: [@NataPavelko](https://github.com/NataPavelko)
-- E-Mail: [natapavelko@gmail.com](mailto:natapavelko@gmail.com)
-- LinkedIn: *[LinkedIn-Link](https://www.linkedin.com/in/nataliia-pavelko/)*
 
----
 
-## 🗂️ Meine Skills 
 
-```mermaid
-mindmap
-  root((Skills))
-    Backend
-      Python
-      PHP
-      C / C#
-    ML & Data
-      Machine Learning
-      Datenanalyse
-    Web
-      HTML
-      CSS
-    Embedded
-      Raspberry Pi
-      Automatisierung
